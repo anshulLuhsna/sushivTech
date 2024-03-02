@@ -139,7 +139,7 @@ function Register() {
 
 
 {/* Actual form */}
-    <div className="flex min-h-screen flex-col items-center justify-between p-24">
+    {/* <div className="flex min-h-screen flex-col items-center justify-between p-24">
         <div className="bg-[#212121] p-8 rounded shadow-md w-96">
           <h1 className="text-4xl text-center font-semibold mb-8">Register</h1>
           <form onSubmit={handleSubmit}>
@@ -170,7 +170,7 @@ function Register() {
           </button>
 
         </div>
-      </div>
+      </div> */}
 
 
 
